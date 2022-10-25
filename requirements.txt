@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+tensorflow
+gym
+keras
+keras-rl2
+mujoco-py<2.2,>=2.1
